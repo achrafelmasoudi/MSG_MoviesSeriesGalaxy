@@ -1,2 +1,2 @@
-# MSGalaxy
+# MSG
 MSG - Movies Series Galaxy
